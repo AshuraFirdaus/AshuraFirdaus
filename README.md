@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [ashurafirdaus.github.io](ashurafirdaus.github.io)
 
-- 📝 I regularly write articles on [ashurafirdaus.github.io](ashurafirdaus.github.io)
-
 - 💬 Ask me about **AWS, GCP, Python.**
 
 - 📫 How to reach me **firdausmail07@gmail.com**
