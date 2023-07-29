@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Learning**
 
-- 👨‍💻 All of my projects are available at [ashurafirdaus.github.io](ashurafirdaus.github.io)
+- 👨‍💻 All of my projects are available at [ashurafirdaus.github.io](https://ashurafirdaus.github.io)
 
 - 💬 Ask me about **AWS, GCP, Python.**
 
