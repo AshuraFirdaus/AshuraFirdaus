@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Firdaus</h1>
-<h3 align="center">A Student from Institut Sains dan Teknologi Nasional Jakarta Indonesia who's interested to learn the IT world.</h3>
+<h3 align="center">Bachelor of Computer Science from Institut Sains dan Teknologi Nasional Jakarta Indonesia who's interested to learn more about the IT world.</h3>
 
-- 🔭 I’m currently Studying on **Institut Sains dan Teknologi Nasional Jakarta**
+- 🔭 I’m currently Working on **Gravacloud**
 
 - 🌱 I’m currently learning **Python, Cloud Computing**
 
