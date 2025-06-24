@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Firdaus</h1>
 <h3 align="center">Bachelor of Computer Science from Institut Sains dan Teknologi Nasional Jakarta Indonesia who's interested to learn more about the IT world.</h3>
 
-- 🔭 I’m currently Working on **Gravacloud**
+- 🔭 I’m currently Working on **--**
 
-- 🌱 I’m currently learning **Python, Cloud Computing**
+- 🌱 I’m currently learning **DevOps and SRE**
 
 - 👯 I’m looking to collaborate on **Building app projects**
 
-- 🤝 I’m looking for help with **Learning**
+- 🤝 I’m looking for help with **Learning, Connecting, Building**
 
 - 👨‍💻 All of my projects are available at [ashurafirdaus.github.io](https://ashurafirdaus.github.io)
 
-- 💬 Ask me about **AWS, GCP, Python.**
+- 💬 Ask me about **Cloud Computing**
 
 - 📫 How to reach me **firdausmail07@gmail.com**
 
